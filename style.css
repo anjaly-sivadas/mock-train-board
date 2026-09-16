@@ -1,0 +1,14 @@
+body {
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#train-info {
+  color: #0f0;
+  font-family: monospace;
+  font-size: 32px;
+}
